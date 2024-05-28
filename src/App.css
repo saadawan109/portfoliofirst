@@ -1,6 +1,8 @@
 #Header{
   height: 100vh;
   background-position: center;
+  
+  
 }
 
 .HeroText{
@@ -8,4 +10,12 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+}
+.cardIcon{
+  background: #fab95b;
+  padding: 5px;
+  border-radius: 50%;
+  font-size: 12px;
+  padding: 5px 10px;
+
 }

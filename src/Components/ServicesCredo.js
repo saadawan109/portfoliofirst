@@ -24,7 +24,7 @@ function ServicesCredo() {
       <div className="container">
         <h1 className="d-flex justify-content-center pt-5 pb-5">Services</h1>
 
-        <div className="row">
+        <div className="row pb-5">
           {serviceData.map((item) => {
             return (
               <>

@@ -25,7 +25,7 @@ function AboutMe() {
                     className="progress-bar bg-warning text-dark"
                     style={{ width: "89%" }}
                   >
-                    75%
+                    89%
                   </div>
                 </div>
               </div>
@@ -61,7 +61,7 @@ function AboutMe() {
                     className="progress-bar bg-warning text-dark"
                     style={{ width: "94%" }}
                   >
-                    75%
+                    94%
                   </div>
                 </div>
               </div>
@@ -79,14 +79,14 @@ function AboutMe() {
                     className="progress-bar bg-warning text-dark"
                     style={{ width: "94%" }}
                   >
-                    75%
+                    94%
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div className="row pt-2">
+        <div className="row pt-2 pb-5">
           <div className="col-md-5">
             <p className="pt-3 text-secondary">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat

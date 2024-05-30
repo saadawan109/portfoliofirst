@@ -19,3 +19,15 @@
   padding: 5px 10px;
 
 }
+
+.reviews{
+  background-color: #fab95b !important;
+}
+
+.carousel-caption{
+  position: static;
+}
+.crousel_text{
+  display: flex;
+  
+}

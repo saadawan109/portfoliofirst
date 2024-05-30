@@ -26,7 +26,7 @@ function Photography() {
   };
   return (
     <>
-      <div className="container">
+      <div className="container pb-5">
         <h2 className="pt-5 pb-5 d-flex justify-content-center">
           My Photography
         </h2>

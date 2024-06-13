@@ -32,3 +32,13 @@
   
 }
 
+.blog_section{
+  background-color: rgb(247, 247, 247);
+}
+.card-title_blog{
+  font-weight:400;
+}
+.card_link_blog{
+  text-decoration: none;
+  color: #fab95b;
+}

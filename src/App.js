@@ -6,6 +6,7 @@ import AboutMe from "./Components/AboutMe";
 import Photography from "./Components/Photography";
 import ReviewsCrousel from "./Components/ReviewsCrousel";
 import TableCreate from "./Components/TableCreate";
+import BlogPost from "./Components/BlogPost"
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <ReviewsCrousel />
       <ScrollToTop />
       <TableCreate />
+      <BlogPost />
     </>
   );
 }

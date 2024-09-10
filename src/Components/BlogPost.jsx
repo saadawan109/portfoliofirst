@@ -4,14 +4,10 @@ import img3 from '../assets/images/img_3.jpg'
 
 
 
-let card_data = [
-       "img1" ,
-    
-        "img2" 
-    ,
-    
-        "img3" 
-    ]
+let card_data = ["https://picsum.photos/200",
+    "https://picsum.photos/200",
+    "https://picsum.photos/200"
+]
 
 function BlogPost() {
     return (
